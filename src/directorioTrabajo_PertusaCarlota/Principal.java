@@ -4,7 +4,7 @@ public class Principal {
 
 	public static void main(String[] args){
 
-		System.out.println(" crea un objeto de la clase “Clase”");
+		System.out.println("Crea un objeto de la clase 'Clase'");
 	}
 
 }

@@ -1,10 +1,14 @@
 package directorioTrabajo_PertusaCarlota;
 
+/**
+ * En esta clase instanciaremos el objeto 'Clase'
+ * 
+ * @author Carlota Pertusa
+ */
 public class Principal {
 
 	public static void main(String[] args){
 
-		System.out.println("Crea un objeto de la clase 'Clase'");
 	}
 
 }
